@@ -25,6 +25,8 @@ import extrainch.volleyexample.adapter.GalleryAdapter;
 import extrainch.volleyexample.app.AppController;
 import extrainch.volleyexample.model.Image;
 
+//Glide sample
+
 
 public class MainActivity extends AppCompatActivity {
 
